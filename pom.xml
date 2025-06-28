@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>uk.co.myzen</groupId>
   <artifactId>atoz.utility</artifactId>
-  <version>0.0.3-SNAPSHOT</version>
+  <version>0.0.4-SNAPSHOT</version>
   <name>a name for Utility</name>
   <description>a description for Utility</description>
   <build>

@@ -5,6 +5,6 @@
  * @author howard
  *
  */
-module Utility {
+module Util {
 	exports uk.co.myzen.atoz.utility;
 }
